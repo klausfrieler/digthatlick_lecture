@@ -29,6 +29,7 @@ Link: https://jazzomat.hfm-weimar.de/feature_history_jazz/
   * Find a feature with a much better quadratic trend ( = larger R2 and smaller AIC).
   * Which solo has the highest event density, which the lowest?
   * Which feature has the strongest aggregated trend?
+  
 ## Pattern History Explorer
 * Contains selection of 653 common interval patterns by eminent performers and its instances in the WJD.
 * See “Help” tab for further details
@@ -37,7 +38,9 @@ Link: https://jazzomat.hfm-weimar.de/feature_history_jazz/
 * Stats: Stats for the pattern and its instances
 * Timeline: Distribution of instances over recording time and performers
 * General Stats: Stats of all patterns
-  
+
+Link: https://jazzomat.hfm-weimar.de/pattern_history/
+
 #### Questions & Tasks (select as you wish)
   * Find the longest arpeggio patterns. Who owns it?
   * Find the longest “non-trivial” pattern. What can be said of its start pitch, harmonic context, accent pattern?
@@ -50,6 +53,8 @@ Link: https://jazzomat.hfm-weimar.de/feature_history_jazz/
 * Secondary search (search in search results).
 * Metadata filter
 * Displays scores and audios + additional metadata.
+
+Link: https://dig-that-lick.hfm-weimar.de/pattern_search/
 
 #### Questions & Tasks (select as you wish)
 * Find “The Lick” in the WJD. Does it exist in the Essen Collection and the Omnibook?
@@ -65,6 +70,8 @@ Link: https://jazzomat.hfm-weimar.de/feature_history_jazz/
 * Filter for extra conditions.
 * Displays audios + additional metadata.
 * Timeline and network visualizations.
+
+Link: https://dig-that-lick.hfm-weimar.de/similarity_search/
 
 #### Questions & Tasks (select as you wish)
 * How would you define pattern similarity? How did we define it?
