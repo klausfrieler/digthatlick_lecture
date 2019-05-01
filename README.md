@@ -9,6 +9,8 @@ All tools accessible via https://jazzomat.hfm-weimar.de/interactive.html
 * Dig That Lick Pattern Search
 * Dig That Lick Similarity Search
 
+Choose excersises freely. You might want to start with tasks in bold. Group work highly recommended. Send me your results if you want feedback. Have fun! 
+
 ## Feature History Explorer
 Visualizes development of solo features in the WJD over time.
   * x-axis: recording year (or decade).  
@@ -21,13 +23,13 @@ Visualizes development of solo features in the WJD over time.
 Link: https://jazzomat.hfm-weimar.de/feature_history_jazz/
 
 #### Questions & Tasks (select as you wish)
-  * What das abs_int_range mean? Give an intuitive explanation.
+  * **What das abs_int_range mean? Give an intuitive explanation**.
   * What drives the trend in abs_int_range?
-  * What does CDPCX mean?
-  * Which CDPCX values show significant trends?
+  * **What does CDPCX mean?**
+  * **Which CDPCX values show significant trends?**
   * How do trends changes when you select “Mean” aggregation? Why? 
   * Find a feature with a much better quadratic trend ( = larger R2 and smaller AIC).
-  * Which solo has the highest event density, which the lowest?
+  * **Which solo has the highest event density, which the lowest?**
   * Which feature has the strongest aggregated trend?
   
 ## Pattern History Explorer
@@ -42,7 +44,7 @@ Link: https://jazzomat.hfm-weimar.de/feature_history_jazz/
 Link: https://jazzomat.hfm-weimar.de/pattern_history/
 
 #### Questions & Tasks (select as you wish)
-  * Find the longest arpeggio patterns. Who owns it?
+  * **Find the longest arpeggio patterns. Who owns it?**
   * Find the longest “non-trivial” pattern. What can be said of its start pitch, harmonic context, accent pattern?
   * Find the most frequent pattern with the longest stretch of an ascending or descending whole tone scale. Who owns it? Who played it first (in the WJD)? Which are more common: ascending or descending?
 
@@ -57,8 +59,8 @@ Link: https://jazzomat.hfm-weimar.de/pattern_history/
 Link: https://dig-that-lick.hfm-weimar.de/pattern_search/
 
 #### Questions & Tasks (select as you wish)
-* Find “The Lick” in the WJD. Does it exist in the Essen Collection and the Omnibook?
-* Find the beginning of “Hänschen Klein” in the WJD. Which is the most similar instance, why? Why are other instances not similar at all?
+* Find “The Lick” in the WJD. Does it exist in the Essen Collection and the Omnibook? (Find the Lick in the internet if you don't know it, e.g., https://www.facebook.com/thelickpage/).
+* **Find the beginning of “Hänschen Klein” in the WJD. Which is the most similar instance, why? Why are other instances not similar at all?**
 * Repeat one of the previous searches Lick with tone context of 2 or more tones before and after. How does it change the pattern impression? What are the most common pre/successions?
 * Find the longest ascending whole tone scale segment (within a single phrase) with only one search request.
 
@@ -74,8 +76,8 @@ Link: https://dig-that-lick.hfm-weimar.de/pattern_search/
 Link: https://dig-that-lick.hfm-weimar.de/similarity_search/
 
 #### Questions & Tasks (select as you wish)
-* How would you define pattern similarity? How did we define it?
-* Search for an interval pattern of choice with 5 elements. How many instances for similarity thresholds 1, .75, .5 and maximal length difference 0, 1, 2 do you get? 
+* **How would you define pattern similarity? How did we define it?**
+* **Search for an interval pattern of choice with 5 elements. How many instances for similarity thresholds 1, .75, .5 and maximal length difference 0, 1, 2 do you get?** 
 * Search for “The Lick” with min sim = .8, max diff = 0. Then repeat: Start new similarity search (right click on the pattern) for the most frequent and most similar but not identical pattern. Does “The Lick” disappear from the result set? What happens? Why?
 * Find the most frequent 8-interval pattern by Chris Potter and play it at half speed. Who owns the pattern? How might it reflect influences? What is the most common start pitch? How does is mostly fit the chords? (Tip: Don’t forget the PHE).
 
