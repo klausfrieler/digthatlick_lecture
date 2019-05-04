@@ -1,6 +1,6 @@
 # Dig That Lick & Jazzomat 
 Material for the Dig That Lick lecture/workshop, May 6th 2019 at the JLU Gießen (part of the course "From No Time to Ragtime" by Andrew Wilson).
-## Hands-on Excercises
+## Hands-on Exercises
 ### Tools
 All tools accessible via https://jazzomat.hfm-weimar.de/interactive.html
 
