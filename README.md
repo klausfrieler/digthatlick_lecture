@@ -2,12 +2,17 @@
 Material for the SysMus workshop, Sep 12th 2019 at the HdPK Berlin.
 ## Hands-on Exercises
 ### Tools
-All tools accessible via https://jazzomat.hfm-weimar.de/interactive.html
+All DTL tools accessible via https://jazzomat.hfm-weimar.de/interactive.html
 
 * Feature History Explorer
 * Pattern History Explorer
 * Dig That Lick Pattern Search
 * Dig That Lick Similarity Search
+
+Additional tools:
+* Sonic Visualiser (https://www.sonicvisualiser.org/)
+* Tony (https://code.soundsoftware.ac.uk/projects/tony)
+
 
 Choose excersises freely. You might want to start with tasks in bold. Group work highly recommended. Send me your results if you want feedback. Have fun! 
 
@@ -81,3 +86,20 @@ Link: https://dig-that-lick.hfm-weimar.de/similarity_search/
 * Search for “The Lick” with min sim = .8, max diff = 0. Then repeat: Start new similarity search (right click on the pattern) for the most frequent and most similar but not identical pattern. Does “The Lick” disappear from the result set? What happens? Why?
 * Find the most frequent 8-interval pattern by Chris Potter and play it at half speed. Who owns the pattern? How might it reflect influences? What is the most common start pitch? How does is mostly fit the chords? (Tip: Don’t forget the PHE).
 
+## Tatra Tempo Curve
+Background: Expressive timing is an important concept not only classical but also in folk music, e.g. music of the Gorales from the Tatra mountains in Poland.
+
+* Tools: Sonic Visualiser, Stats.
+* Question: Is there a connection between different form parts and expressive timing/rubato? How do the players actually synchronize?
+* Task 1: **Generate a tempo curve**.
+* Task 2: Identify and annotate form parts
+* Task 3: Try an automatic beat tracker plugins and evaluate their performance.
+* Bonus task: How would you analyse scales, chords and overall tuning?
+
+## Hindewhu
+Background: Automated or semi-automatic transcription is one the main applications of MIR. The monophonic case is already satisfyingly solved – at least for pitches, onsets and durations. Further annotations (e.g., metrical) are still a problem.
+
+* Tools: Tony/Sonic Visualiser.
+* Task 1: **Create note track using Tony** (recommended) or pYIN plugin for SV (or both). Analyse pitches (scale, tuning system, precision, accucary). 
+* Task 2: **Create a beat track**, add metrical annotations by hand. Analyse rhythm statistically.
+* Task 3: Prepare a full transcription of an excerpt (or all of it).
